@@ -39,9 +39,9 @@
   ],
   "gridDistance": 5,
   "gridUnits": "ft",
-  "url": "https://github.com/Tempus-cpu/ose",
-  "manifest": "https://github.com/Tempus-cpu/ose/raw/master/src/system.json",
-  "download": "https://github.com/Tempus-cpu/ose/-/raw/v1.2.2/package/ose-v1.2.2.zip",
+  "url": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+  "manifest": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+  "download": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
   "bugs": "https://github.com/vttred/ose/issues",
   "flags": {
     "allowBugReporter": true
